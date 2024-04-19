@@ -1,1 +1,1 @@
-![image](https://github.com/Kanangnut/SQL-Excel-Tableau-Exercise/assets/130201193/47e9bce1-0ee8-4a6b-9514-d111fb5df785)
+![image](https://github.com/Kanangnut/Data-Analysis-BikeStore-SQL-Excel-Tableau/assets/130201193/09392c8d-3dc3-4d5a-a104-5fbb5c0a11a7)
